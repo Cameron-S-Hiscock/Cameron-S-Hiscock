@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cameron-S-Hiscock
-- 👀 I’m interested in learning how to program with Javascript and C++
-- 🌱 I’m currently learning how to make websites, games, and apps using Javascript and C++
+- 👋 Hi, I’m @Cameron-S-Hiscock.
+- 👀 I’m interested in learning how to program, mainly with Java, but also interested in other languages.
+- 🌱 I’m currently learning how to make websites, games, and apps using Javascript and C++, along with a Java terminal.
 - 📫 How to reach me: email: cameronsh9421@gmail.com
 - 😄 Pronouns: He/Him
