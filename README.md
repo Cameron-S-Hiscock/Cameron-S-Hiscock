@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Cameron-S-Hiscock.
-- 👀 I’m interested in learning how to program, mainly with Kotlin, Rust, and TypeScript, but also interested in other languages.
+- 👀 I’m interested in learning how to program, mainly with Kotlin, Rust, and JavaScript, but also interested in other languages.
 - 🌱 I’m currently learning how to make websites, games, and apps.
 - 🛜 My biggest project currently is Access which is currently being worked on.
 - ❔ Please feel free to contact me to ask questions about my work.
 - 📫 How to reach me:
-- Email: cameronsh9421@gmail.com
+- Email: cameronsh9421@proton.me
 - Phone Number: (250) 253-9421
 - Pronouns: He/Him
